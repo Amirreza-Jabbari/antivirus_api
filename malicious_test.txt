@@ -1,0 +1,10 @@
+MZ
+VirtualAlloc
+GetProcAddress
+UPX!
+IsDebuggerPresent
+CheckRemoteDebuggerPresent
+AES
+RSA
+.decrypt
+E9 90 90 90
